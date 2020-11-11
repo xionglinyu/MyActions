@@ -39,4 +39,4 @@ jobs:
                   jdSuperMarketUpgrade: ${{ secrets.SUPERMARKET_UPGRADE }}
                   jdBusinessCircleJump: ${{ secrets.BUSINESS_CIRCLE_JUMP }}
                   SuperMarketShareCodes: ${{ secrets.SUPERMARKET_SHARECODES }}
-                  SYNCURL: https://github.com/lxk0301/scripts/raw/master/jd_superMarket.js
+                  SYNCURL: https://github.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js
